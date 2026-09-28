@@ -1,0 +1,12 @@
+{
+  "name": "cs140-flow",
+  "private": true,
+  "type": "module",
+  "description": "Mail rules: choosing a branch, choosing a loop, a paged mailbox you can iterate, and changing an inbox while you walk it",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
