@@ -56,6 +56,13 @@ The code is in `src/`. Each function has a comment above it that is its full
 contract. The `export` in front of each function lets the tests import it; leave
 it there.
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 Do them in order. Later tasks call the functions from earlier ones.
