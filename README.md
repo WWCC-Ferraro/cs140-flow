@@ -12,15 +12,14 @@ the inbox while you are walking it.
 
 ## Getting started
 
-1. Create your own repository from this template. On the template's GitHub page,
-   choose **Use this template**, then **Create a new repository**.
-2. Open it where you write code. Either works; *Set up where your code runs* in
-   Start Here covers both.
-   - **In a Codespace:** on your new repository, choose **Code**, then
-     **Codespaces**, then create one. Node is already installed.
-   - **On your own machine:** clone your repository, and check that
-     `node --version` prints 22 or later.
-3. Run the tests:
+1. Open **your repository**. It is made for you: private, and named for this
+   homework, the term and your username — `<term>-cs140-flow-<you>`. On
+   [this homework's page](https://wwcc.dev/#/lesson/flow-assignment), type your GitHub
+   username and click **Open my Codespace**. On your own computer, clone it
+   with GitHub Desktop (**Code**, then **Open with GitHub Desktop**) and check
+   that `node --version` prints 22 or later. Start Here's *How a homework works*
+   walks through both.
+2. Run the tests:
 
    ```
    npm test
